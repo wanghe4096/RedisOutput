@@ -1,0 +1,4 @@
+# RedisOutput
+
+RedisOutput for heka 
+
